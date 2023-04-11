@@ -12,6 +12,7 @@ package git_3.entidades;
 public class Animales {
     private String nombre;
     private int edad;
+    private String tipo;
 
     public Animales(String nombre, int edad) {
         this.nombre = nombre;
